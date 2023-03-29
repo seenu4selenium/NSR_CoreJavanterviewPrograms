@@ -1,0 +1,32 @@
+{
+	"firstName": "Seena",
+	"lastName": "Kennedy",
+	"userlogins": [
+		{
+			"username": "HelloSeenu",
+			"password": "MyPswd"
+		}
+	],
+	"address": [
+		{
+			"street": "abc",
+			"city": "Hyderabad",
+			"state": "TG"
+		},
+		{
+			"street": "xyz",
+			"city": "Chennai",
+			"state": "TN"
+		},
+		{
+			"street": "uio",
+			"city": "Bangalore",
+			"state": "KA"
+		},
+		{
+			"street": "mno",
+			"city": "Kadapa",
+			"state": "AP"
+		}
+	]
+}
